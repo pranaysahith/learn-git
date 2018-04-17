@@ -1,2 +1,3 @@
 hello Git
 This is a modification of file using UI.
+end of file!

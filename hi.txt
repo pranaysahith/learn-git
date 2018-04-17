@@ -1,3 +1,4 @@
 hello Git
-This is a modification of file.
+This is a modification of file using UI.
 Added a line
+end of file!

@@ -11,7 +11,7 @@
       "Type": "Number"
     },
     "CoreInstanceType": {
-      "Default": "m1.small",
+      "Default": "m1.medium",
       "Type": "String"
     },
     "LogS3Bucket": {
@@ -62,7 +62,7 @@
           "Ec2KeyName": "kranti",
           "MasterInstanceGroup": {
             "InstanceCount": 1,
-            "InstanceType": "m1.small",
+            "InstanceType": "m1.medium",
             "Market": "ON_DEMAND",
             "Name": "Master"
           }
